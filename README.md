@@ -1,2 +1,1 @@
-# tindog
-tinder like app for pet dogs:)
+TinDog Starting Files
